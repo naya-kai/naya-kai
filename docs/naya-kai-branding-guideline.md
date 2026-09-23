@@ -71,10 +71,12 @@ It should feel like:
 
 The central visual metaphor is **a path through a network**: a clear line moves through a field of data points, creating order, direction and connection without trying to dominate the whole system.
 
+The design direction draws on four sources: Japanese restraint, Sanskrit-inspired logic, modern technology, and Australian professional practicality. The result should feel considered and quiet rather than decorative — the cross-cultural roots inform the structure of the mark, not its ornamentation.
+
 | Logo concept | Description | Why it works |
 |---|---|---|
 | **The Guided Node** | A minimal circular node with one path entering and two or three clean directional paths emerging | Communicates data flow, judgement and decision pathways without looking generic |
-| **The Open Enso Grid** | An incomplete circular stroke intersected by a small structured grid or node pattern | Represents continual learning, clarity and work-in-progress |
+| **The Open Enso Grid** | An incomplete circular stroke intersected by a small structured grid or node pattern | Represents continual learning, clarity and work-in-progress. Use with restraint: the enso must read as an open, unfinished line, not as a Zen symbol |
 | **The NK Pathmark** | A bespoke monogram where the “N” becomes a directional path and the “K” becomes a branching junction | Best option for GitHub avatar, favicon and small-format use |
 | **The Compass Line** | A restrained compass-like mark made from four data points and a diagonal route | Suggests direction and guidance while avoiding consulting clichés |
 | **The Signal Circle** | A clean ring made from connected dots, with one highlighted connection creating a path | Represents collaboration, systems thinking and finding signal within complexity |
@@ -82,7 +84,7 @@ The central visual metaphor is **a path through a network**: a clear line moves 
 ### Logo guardrails
 
 - Use a simple geometric mark, not a detailed illustration.
-- Ensure it works at 32×32 pixels for GitHub, OpenRouter and IDE avatars.
+- Ensure it works at 32×32 pixels for repository, platform and IDE avatars.
 - Use no gradients in the core logo; gradients can be optional for digital headers only.
 - Avoid obvious AI imagery: brains, robots, circuit-board heads, neural-network explosions or chat bubbles.
 - Avoid dragons, foxes, phoenixes or mythical creatures as the primary mark.
@@ -100,6 +102,8 @@ The central visual metaphor is **a path through a network**: a clear line moves 
 ## 6. Colour System
 
 ### Colour v2 (proposed)
+
+This is a revised proposal. It supersedes both the earlier v1 palette below and the first v2 draft, narrowing the system to four working roles plus a rare signal colour.
 
 | Role | Token | Hex | Use |
 |---|---|---|---|
@@ -263,14 +267,14 @@ Sydney, Australia
 | Layer | Name | Purpose |
 |---|---|---|
 | Human / brand layer | **Naya Kai** | The concept, logo, writing voice, visual identity and public-facing technical practice |
-| Technical / platform layer | `naya-kai` | The handle, URLs, repositories, OAuth identity, CLI and developer ecosystem presence |
+| Technical / platform layer | `naya-kai` | The handle, URLs, repositories, platform identity, CLI and developer ecosystem presence |
 | Personal attribution layer | **Avnish Manraj** | Your real-name credibility for recruiters, clients, speaking, consulting and professional contexts |
 
 ## 12. Asset Governance
 
 | Material | Location | Rationale |
 |---|---|---|
-| Banner, logo lockup, compact mark (web-optimised) | Public repo `naya-kai/naya-kai`, `assets/` | GitHub serves README images from the repository, so they must be public |
-| Master vector sources, raw generations, working files | Private repo `naya-kai/brand-source` | Keeps the public repository lightweight; source files are not for public consumption |
-| Branding journey transcript | Private only | Contains family names, account strategy and employer context |
-| CV | Private only | Personal data |
+| Banner, logo lockup, compact mark (web-optimised) | Public repository, `assets/` | Repository READMEs are served publicly, so referenced images must be public |
+| Master vector sources, raw generations, working files | Private repository | Keeps the public repository lightweight; source files are not for public consumption |
+| Branding journey transcript | Private only | Working material, not for publication |
+| Curriculum vitae | Private only | Personal data |
