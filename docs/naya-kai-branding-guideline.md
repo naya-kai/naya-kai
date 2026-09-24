@@ -196,7 +196,7 @@ Avoid calligraphic, brushstroke or faux-Asian display fonts — they make the cr
 | Brand heading | `Naya Kai` | `Naya Kai — Clear method. Useful systems.` |
 | GitHub username | `naya-kai` | `github.com/naya-kai` |
 | Developer handles | `naya-kai` | `@naya-kai` |
-| Email | `naya.kai@proton.me` | `naya.kai@proton.me` |
+| Email | `naya.kai@pm.me` | `naya.kai@pm.me` |
 | Repository namespace | `naya-kai` | `naya-kai/agent-patterns` |
 | CLI / env identifiers | `naya-kai` or `naya_kai` where platform conventions require it | `NAYA_KAI_API_KEY` |
 | Social display name | `Naya Kai` | Name: `Naya Kai`; handle: `@naya-kai` |
@@ -212,7 +212,7 @@ Username: naya-kai
 Profile headline: Naya Kai
 Bio: Data, AI and decision intelligence | Building practical systems that turn complexity into useful action.
 Location: Sydney, Australia
-Public contact: naya.kai@proton.me
+Public contact: naya.kai@pm.me
 ```
 
 ### Website header
@@ -252,7 +252,7 @@ Built by Avnish Manraj.
 ```text
 Avnish Manraj
 Naya Kai
-naya.kai@proton.me
+naya.kai@pm.me
 Sydney, Australia
 ```
 

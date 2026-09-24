@@ -14,17 +14,19 @@ Avnish Manraj · Sydney, Australia
 
 ---
 
-## Positioning
+## Who is Naya Kai
 
-Naya Kai is a practitioner-led technology identity for data, AI and decision intelligence. It combines disciplined thinking with hands-on delivery for teams that need clear architecture, careful governance and systems that hold up in production.
+Naya Kai is the name I work under. It is a deliberate cross-cultural pairing rather than a literal translation. **Naya** carries the sense of method, reasoning and sound judgement — the considered path. **Kai** evokes meeting, connection and shared practice — the work done with people. Read together, they mean *clear method, applied in practice*: frame the problem properly, follow the evidence, and build something a team can actually use.
 
-The practice suits organisations that want senior technical judgement and direct build capability in the same engagement. It draws on more than twelve years across data strategy, cybersecurity, cloud architecture and technical delivery in industrial and regulated environments.
-
-This account is a public workbench: architectural patterns, reproducible experiments and tooling notes from that work.
+The name also holds a quiet personal layer, but publicly it is simply a compact, credible technical identity. It is pronounced *NAY-ah KYE*.
 
 ---
 
 ## What I do
+
+I work with asset-intensive organisations to turn complex data and AI capability into decisions, systems and measurable progress. That spans strategy through to hands-on build: framing the problem, designing the architecture, and delivering the pipelines, models and reporting that make it real.
+
+I work in short delivery cycles with Scrum where it adds value, and I keep governance visible from the start. Decisions are evidence-led, documentation stays lean and useful, and handover is designed so teams can operate what gets built.
 
 | Focus area | What I bring |
 | :-- | :-- |
@@ -35,35 +37,43 @@ This account is a public workbench: architectural patterns, reproducible experim
 
 ---
 
-## Credentials
+## Industry and Sector Experience
 
-| Credential | Type | Year |
-| :-- | :-- | :-- |
-| Master of Cyber Security Operations, UNSW | Qualification | 2026 |
-| Bachelor of Software Engineering (Honours), Monash University | Qualification | 2012 |
-| Graduate Certificate in Business Management, Indiana University | Qualification | 2016 |
-| Professional Agile Leadership I (PAL I) | Certification | 2020 |
-| Professional Scrum Master I (PSM I) | Certification | 2020 |
-| Professional Scrum Product Owner I (PSPO I) | Certification | 2020 |
-| Certified Associate in Asset Management (CAAM) | Certification | 2019 |
-| Microsoft Certified: Azure Data Fundamentals | Certification | 2022 |
+More than twelve years delivering for federal and state government agencies and private sector clients. Those clients are almost always asset-intensive organisations, where data quality, safety obligations and regulatory scrutiny shape every decision.
 
----
-
-## Sector Experience
-
-- Critical infrastructure programmes
-- Defence and national security organisations
-- Renewable energy operators
-- State water utilities
-- Transport and rail environments
-- Healthcare infrastructure teams
-- Natural resources organisations
-- Education and telecommunications programmes
+| Sector | Context |
+| :-- | :-- |
+| **Defence & National Security** | Federal government programmes, including Army HQ and RAAF maintenance and data management initiatives. |
+| **Transport & Rail** | State transport agencies, regional rail enabling works and major network programmes. |
+| **Water** | State and metropolitan water utilities, including regulatory expenditure and leakage performance. |
+| **Energy & Resources** | Renewable energy operators, electricity transmission, oil & gas and mining. |
+| **Government & Education** | State departments and education infrastructure portfolios. |
+| **Healthcare & Telecommunications** | Hospital infrastructure asset programmes and major telco engineering data initiatives. |
 
 ---
 
 ## Technical Snapshot
+
+Skills are mapped to [SFIA 9](https://sfia-online.org/en/sfia-9/skills) so the level of responsibility is explicit. Level 4 — *enable*; Level 5 — *ensure, advise*; Level 6 — *initiate, influence*.
+
+| Skill | SFIA 9 | Level | In practice |
+| :-- | :-- | :--: | :-- |
+| Data management | DATM | 6 | Data strategy, governance frameworks and retention policy for Defence and utility clients. |
+| Data engineering | DENG | 5 | Lakehouse pipelines on Microsoft Fabric and Databricks; SAP, Maximo and ArcGIS integration. |
+| Data analytics | DAAN | 5 | Decision-support analytics for capital and expenditure prioritisation. |
+| Data modelling and design | DTAN | 5 | Semantic models and integrated data models across disparate enterprise sources. |
+| Data visualisation | VISL | 5 | 50+ Power BI products for executive, programme and operational reporting. |
+| Business intelligence | BINT | 5 | Enterprise reporting platforms and automated dashboard production. |
+| Solution architecture | ARCH | 5 | Cloud and data platform architecture for regulated, safety-critical environments. |
+| Information assurance | INAS | 5 | ISO 27001 and government security requirements; data classification frameworks. |
+| Governance | GOVN | 5 | Data governance, information management standards and delivery assurance. |
+| Consultancy | CNSL | 5 | Technical due diligence, roadmap reviews and independent advisory. |
+| Specialist advice | TECH | 5 | Subject matter expert for data architecture, cybersecurity and information governance. |
+| Delivery management | DEMG | 5 | Leading multidisciplinary data, software and reporting teams. |
+| Project management | PRMG | 5 | Complex technical projects up to $2.5M with distributed stakeholder groups. |
+| Stakeholder relationship management | RLMT | 5 | Executive, contractor and multi-agency engagement across government and industry. |
+| Asset management | ASMG | 5 | Asset registers, maintenance KPIs and lifecycle data for asset-intensive clients. |
+| Machine learning | MLNG | 4 | Automated extraction from engineering drawings; practical LLM and agentic workflows. |
 
 | Area | Tools and practices |
 | :-- | :-- |
@@ -77,18 +87,30 @@ This account is a public workbench: architectural patterns, reproducible experim
 
 ---
 
-## How I Work
+## Education and Credentials
 
-I work in short delivery cycles with Scrum where it adds value, and I keep governance visible from the start. Decisions are evidence-led, documentation stays lean and useful, and handover is designed so teams can operate what gets built.
+### Formal education
+
+| Qualification | Institution | Year |
+| :-- | :-- | :-- |
+| Master of Cyber Security Operations | University of New South Wales, Canberra | 2026 |
+| Graduate Certificate in Business Management | Indiana University, USA | 2016 |
+| Bachelor of Software Engineering (Honours) | Monash University | 2012 |
+
+### Certifications
+
+| Certification | Issuer | Issued |
+| :-- | :-- | :-- |
+| Ethical AI | RMIT | 2026 |
+| Microsoft Certified: Azure Data Fundamentals | Microsoft | 2022 |
+| Professional Agile Leadership I (PAL I) | Scrum.org | 2020 |
+| Professional Scrum Master I (PSM I) | Scrum.org | 2020 |
+| Professional Scrum Product Owner I (PSPO I) | Scrum.org | 2020 |
+| Certified Associate in Asset Management (CAAM) | Asset Management Council | 2019 |
 
 ---
 
 ## Contact
 
-- Email: `naya.kai@proton.me`
+- Email: `naya.kai@pm.me`
 - Location: Sydney, Australia
-- Timezone: AEST / AEDT
-
----
-
-Naya Kai · naya-kai · Sydney, Australia
