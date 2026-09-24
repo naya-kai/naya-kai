@@ -180,6 +180,8 @@ Avoid calligraphic, brushstroke or faux-Asian display fonts — they make the cr
 
 > **Reading.** The primary tagline is an active promise, not a description of the outputs: Naya Kai *enables decisions* (makes sound, defensible decision-making possible for the client) and *builds working systems* (systems that keep working after the engagement ends). "Working" is the testable adjective — the systems run, and the client can keep using them. If a piece of copy ever needs the verb form spelled out, use "Enabling decisions. Building systems."
 
+> **Under consideration (not yet adopted).** If the tagline should read as *outputs* rather than an active promise, the strongest candidate is **"Defensible decisions. Lasting systems."** — it names the auditability value outright ("defensible" = holds up under scrutiny, confident without ego) and "lasting" is a testable durability adjective. Two other outputs-reading variants were weighed and set aside: "Decisions that enable. Systems that work." (grammatically clean but "enable" dangles — enable *what*?) and "Guiding decisions. Connecting systems." (best etymology story — Naya=guidance, Kai=connection, and systems as People/Process/Technology — but the verbs are too soft for Director-level decisiveness). The 8-word "Enabling sound decisions. Building lasting systems." was rejected as too long for a tagline; "smart" was rejected outright as a consumer-product adjective.
+
 ### More technical
 
 - Practical systems for data, AI and decisions.
