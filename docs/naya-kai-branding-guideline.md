@@ -10,7 +10,7 @@ The visual system is proposed, not finalised.
 
 **Pronunciation:** `NAY-ah KYE`
 
-Naya Kai is an intentional cross-cultural pairing, not a literal bilingual phrase. It means clear method, applied in practice. It is reasoned direction, delivered collaboratively. It is a name with a private family layer, but externally it should read only as a compact, credible technical identity.
+Naya Kai is an intentional cross-cultural pairing, not a literal bilingual phrase. **Naya** comes from the Sanskrit root *nī* — "to lead, to guide" — the same root that gives *netā*, "leader"; it carries the sense of method, reasoning and sound judgement. **Kai** evokes meeting, connection and shared practice. Read together, the name means clear method, applied in practice: enabling decisions, and building working systems. It is a name with a private family layer, but externally it should read only as a compact, credible technical identity.
 
 ## 2. Brand Idea
 
@@ -170,11 +170,15 @@ Avoid calligraphic, brushstroke or faux-Asian display fonts — they make the cr
 
 ### Strongest
 
-- Clear method. Useful systems.
+- Enabling decisions. Working systems.
+- Sound judgement. Working systems.
+- Decisions that hold. Systems that deliver.
 - From complexity to useful action.
 - Data and AI, made practical.
 - Reasoned systems for better decisions.
 - Build clarity. Deliver progress.
+
+> **Reading.** The primary tagline is an active promise, not a description of the outputs: Naya Kai *enables decisions* (makes sound, defensible decision-making possible for the client) and *builds working systems* (systems that keep working after the engagement ends). "Working" is the testable adjective — the systems run, and the client can keep using them. If a piece of copy ever needs the verb form spelled out, use "Enabling decisions. Building systems."
 
 ### More technical
 
@@ -188,12 +192,16 @@ Avoid calligraphic, brushstroke or faux-Asian display fonts — they make the cr
 - Method, craft and practical intelligence.
 - Finding the useful signal.
 
+### Retired
+
+- ~~Clear method. Useful systems.~~ — superseded by "Enabling decisions. Working systems." The old line under-signalled seniority: no decision layer, no people layer, and "useful" is untestable. Do not use in new material.
+
 ## 10. Platform Usage
 
 | Context | Preferred form | Example |
 |---|---|---|
 | Primary logo | `Naya Kai` | `Naya Kai` |
-| Brand heading | `Naya Kai` | `Naya Kai — Clear method. Useful systems.` |
+| Brand heading | `Naya Kai` | `Naya Kai — Enabling decisions. Working systems.` |
 | GitHub username | `naya-kai` | `github.com/naya-kai` |
 | Developer handles | `naya-kai` | `@naya-kai` |
 | Email | `naya.kai@pm.me` | `naya.kai@pm.me` |
@@ -219,7 +227,7 @@ Public contact: naya.kai@pm.me
 
 ```text
 Naya Kai
-Clear method. Useful systems.
+Enabling decisions. Working systems.
 
 By Avnish Manraj
 ```

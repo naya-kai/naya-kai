@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/naya-kai-banner.png" alt="Naya Kai — Clear method. Useful systems." width="100%" />
+  <img src="assets/naya-kai-banner.png" alt="Naya Kai — Enabling decisions. Working systems." width="100%" />
 </p>
 
 <div align="center">
 
 # Naya Kai
 
-Clear method. Useful systems.
+Enabling decisions. Working systems.
 
 Avnish Manraj · Sydney, Australia
 
@@ -16,7 +16,7 @@ Avnish Manraj · Sydney, Australia
 
 ## Who is Naya Kai
 
-Naya Kai is the name I work under. It is a deliberate cross-cultural pairing rather than a literal translation. **Naya** carries the sense of method, reasoning and sound judgement — the considered path. **Kai** evokes meeting, connection and shared practice — the work done with people. Read together, they mean *clear method, applied in practice*: frame the problem properly, follow the evidence, and build something a team can actually use.
+Naya Kai is the name I work under. It is a deliberate cross-cultural pairing rather than a literal translation. **Naya** comes from the Sanskrit root *nī* — "to lead, to guide" — the same root that gives *netā*, "leader". It carries the sense of method, reasoning and sound judgement: the considered path. **Kai** evokes meeting, connection and shared practice — the work done with people. Read together, they mean *clear method, applied in practice*: frame the problem properly, follow the evidence, and build something a team can actually use. That is the work behind the tagline — enabling decisions, and building working systems.
 
 The name also holds a quiet personal layer, but publicly it is simply a compact, credible technical identity. It is pronounced *NAY-ah KYE*.
 
@@ -24,7 +24,7 @@ The name also holds a quiet personal layer, but publicly it is simply a compact,
 
 ## What I do
 
-I work with asset-intensive organisations to turn complex data and AI capability into decisions, systems and measurable progress. That spans strategy through to hands-on build: framing the problem, designing the architecture, and delivering the pipelines, models and reporting that make it real.
+I work with asset-intensive organisations to turn complex data and AI capability into decisions, systems and measurable progress. That spans strategy through to hands-on build: framing the problem, obtaining and preparing the data, designing the architecture, and delivering the pipelines, models and reporting that make it real. The process is as important as the outcome — decisions are only defensible when the path to them is auditable, and the systems I build let clients keep making those decisions long after the engagement ends.
 
 I work in short delivery cycles with Scrum where it adds value, and I keep governance visible from the start. Decisions are evidence-led, documentation stays lean and useful, and handover is designed so teams can operate what gets built.
 
