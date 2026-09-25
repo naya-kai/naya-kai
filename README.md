@@ -16,7 +16,7 @@ Avnish Manraj · Sydney, Australia
 
 ## Who is Naya Kai
 
-Naya Kai is the pseudonym I work under - a cross-cultural pairing of Japanese and Sanskrit origins. **Naya**, in Sanskrit, carries the sense of leadership, reasoning and sound judgement - the considered methodology I operate with. **Kai** evokes connection, meeting and shared practice - the work done with people and for a purpose. Read together, they suggest that both the ability to reason *about data* and having a *strong system* of people, processes and technology, are important*. That is why I help my clients frame the problem properly, follow the evidence and build something they can actually use. The name also holds a deeper personal connection, but in short, it brings together my passion and profession.
+Naya Kai is the pseudonym I work under - a cross-cultural pairing of Japanese and Sanskrit origins. **Naya**, in Sanskrit, carries the sense of leadership, reasoning and sound judgement - the considered methodology I operate with. **Kai** evokes connection, meeting and shared practice - the work done with people and for a purpose. Read together, they suggest that both the ability to reason soundly *about data* and having a *strong system* of people, processes and technology, are important. That is why I help my clients frame the problem properly, follow the evidence and build something they can actually use. The name also holds a deeper personal connection, but in short, it brings together my passion and profession.
 
 It is pronounced *NAY-ah KYE*.
 
@@ -43,7 +43,7 @@ More than twelve years delivering for federal and state government agencies as w
 
 | Sector | Context |
 | :-- | :-- |
-| **Defence & National Security** | Federal government programmes — strategy, data management and building reporting processes and tools from scratch to track programs and assets. |
+| **Defence & National Security** | Federal government programmes - strategy, data management and building reporting processes and tools from scratch to track programs and assets. |
 | **Transport** | State transport agencies, regional rail enabling works and major network programmes. Customer and behaviour transport analytics - optimising communication to public transport and road users to optimise asset performance. |
 | **Water** | State and metropolitan water utilities - regulatory expenditure, capital program reporting, business intelligence and smart calculation tools (leakage, waste, carbon, etc.). |
 | **Energy & Resources** | Digital transformation strategy for renewable energy operators, electricity transmission, oil & gas and mining. |
