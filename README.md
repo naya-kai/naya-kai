@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="assets/naya-kai-banner.png" alt="Naya Kai — Enabling decisions. Working systems." width="100%" />
+  <img src="assets/naya-kai-banner.png" alt="Naya Kai. Clear method. Useful systems." width="100%" />
 </p>
 
 <div align="center">
 
 # Naya Kai
 
-Enabling decisions. Working systems.
+Clear method. Useful systems.
 
-Avnish Manraj · Sydney, Australia
+Avnish Manraj
 
 </div>
 
@@ -16,7 +16,7 @@ Avnish Manraj · Sydney, Australia
 
 ## Who is Naya Kai
 
-Naya Kai is the professional pseudonym I work under. It brings together two ideas that shape how I approach consulting and delivery.
+Naya Kai is the business name for my independent practice. I use it for sole-trader consulting. The name brings together two ideas that shape how I approach that work.
 
 In Sanskrit, *Naya* can refer to method, judgement, direction and prudent conduct. For me, it represents careful reasoning: framing the problem properly, following the evidence and making decisions that can be explained.
 
@@ -78,11 +78,10 @@ I have more than twelve years of experience supporting federal and state governm
 | **Water** | Regulatory expenditure, capital-programme reporting, business intelligence and calculation tools for leakage, waste and carbon emissions. |
 | **Energy and resources** | Digital transformation strategy and data-enabled delivery across renewable energy, electricity transmission, oil and gas, and mining. |
 | **Government** | Infrastructure and asset-portfolio visualisation for state government departments. |
-| **Healthcare and telecommunications** | Healthcare infrastructure, asset-register development, business-process improvement and CMMS implementation support. |
+| **Healthcare** | Healthcare infrastructure, asset-register development, business-process improvement and CMMS implementation support. |
 
 ---
 
 ## Contact
 
-- Email: `naya.kai@pm.me`
-- Location: Sydney, Australia
+Email: `naya.kai@pm.me`
