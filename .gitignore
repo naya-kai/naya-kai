@@ -1,0 +1,23 @@
+# OS junk
+.DS_Store
+._*
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Editor junk
+.idea/
+.vscode/
+*.code-workspace
+*~
+*.swp
+*.swo
+
+# Office lock files
+~$*
+
+# PBIP local-only files. These are the two paths Power BI Desktop ignores.
+# editorSettings.json is shared across users and stays tracked.
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
