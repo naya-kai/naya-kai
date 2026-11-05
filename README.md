@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/naya-kai-banner.png" alt="Naya Kai. Clear method. Useful systems." width="100%" />
+  <img src="assets/naya-kai-banner.png" alt="Naya Kai. Reasoned decisions. Practical systems." width="100%" />
 </p>
 
 <div align="center">
 
 # Naya Kai
 
-Clear method. Useful systems.
+Reasoned decisions. Practical systems.
 
 Avnish Manraj
 
@@ -79,6 +79,12 @@ I have more than twelve years of experience supporting federal and state governm
 | **Energy and resources** | Digital transformation strategy and data-enabled delivery across renewable energy, electricity transmission, oil and gas, and mining. |
 | **Government** | Infrastructure and asset-portfolio visualisation for state government departments. |
 | **Healthcare** | Healthcare infrastructure, asset-register development, business-process improvement and CMMS implementation support. |
+
+---
+
+## Reference architectures
+
+I will publish reference architectures as sanitised notes. The index is [reference-architectures/README.md](reference-architectures/README.md). The entries there are planned, not published.
 
 ---
 
