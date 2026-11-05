@@ -82,9 +82,13 @@ I have more than twelve years of experience supporting federal and state governm
 
 ---
 
+## Engineering philosophy
+
+How I decide what to build, and what to leave out, is in [PHILOSOPHY.md](PHILOSOPHY.md).
+
 ## Reference architectures
 
-I will publish reference architectures as sanitised notes. The index is [reference-architectures/README.md](reference-architectures/README.md). The entries there are planned, not published.
+Sanitised reference notes are indexed in [reference-architectures/README.md](reference-architectures/README.md). Published notes are marked there. The rest are planned.
 
 ---
 
